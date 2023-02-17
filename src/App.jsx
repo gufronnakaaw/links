@@ -25,7 +25,7 @@ export default function App() {
   return (
     <div className="container">
       <div className="author">
-        <img src="/public/me.jpg" alt="author" />
+        <img src="/me.jpg" alt="author" />
         <p>Gufronnaka Arif Wildan</p>
       </div>
       <div className="links">
