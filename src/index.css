@@ -60,6 +60,20 @@ body {
   background-color: #373535;
 }
 
+.social {
+  text-align: center;
+}
+
+.social .social-item {
+  font-size: 28px;
+  color: white;
+  margin: 0 10px;
+}
+
 footer {
   text-align: center;
+}
+
+footer small span {
+  color: #f39c12;
 }
