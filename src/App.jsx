@@ -17,7 +17,7 @@ export default function App() {
       url: 'mailto: gufronnakaaw@gmail.com',
     },
     {
-      title: 'e-certificate',
+      title: 'e-certificates',
       url: 'https://drive.google.com/drive/folders/1XJ-UMKjM37lEzyC6dSOnUzGvYT3aMNKv?usp=sharing',
     },
   ];
@@ -33,17 +33,12 @@ export default function App() {
       url: 'https://instagram.com/gufronnakaaw',
       icon: 'fa-brands fa-instagram',
     },
-    {
-      title: 'telegram',
-      url: 'https://t.me/whoslemontea',
-      icon: 'fa-brands fa-telegram',
-    },
   ];
 
   return (
     <div className="container">
       <div className="author">
-        <img src="/me.jpg" alt="author" />
+        <img src="/eye.jpg" alt="author" />
         <p>Gufronnaka Arif Wildan</p>
       </div>
       <div className="links">
