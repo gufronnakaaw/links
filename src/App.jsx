@@ -25,7 +25,7 @@ export default function App() {
   const socials = [
     {
       title: 'spotify',
-      url: 'https://open.spotify.com/playlist/7qr9IJpGNfLBjVhagMxf5Y?si=410507ec64434749',
+      url: 'https://open.spotify.com/user/gufron02?si=fe6c871608a24ce3',
       icon: 'fa-brands fa-spotify',
     },
     {
